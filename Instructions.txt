@@ -1,0 +1,12 @@
+In the frontend folder
+-npm create vite@latest .
+-npm install
+
+
+in the back end folder
+-npm init -y
+-npm install express mongoose dotenv jsonwebtoken bcryptjs cookie-parser cloudinary socket.io
+-npm install nodemon -D
+-Create index.js in the back end folder
+and type 
+
